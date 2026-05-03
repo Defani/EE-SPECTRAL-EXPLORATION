@@ -312,11 +312,6 @@ your-repo/
     └── ee_spectral_explorer.js
 ```
 
-> 💡 **Recommended GIF tools**: [ScreenToGif](https://www.screentogif.com/) (Windows), [Kap](https://getkap.co/) (macOS), or [Peek](https://github.com/phw/peek) (Linux). Keep each GIF under **10 MB** for GitHub rendering performance.
-
----
-
-
 ---
 
 ## 📬 Contact
