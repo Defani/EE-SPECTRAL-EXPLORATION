@@ -316,15 +316,6 @@ your-repo/
 
 ---
 
-## 📖 Citation
-
-If you use this tool in published research, please cite accordingly:
-
-```
-Alfitriansyah, D.A. (2023). EE Spectral Exploration Tool: A Google Earth Engine GUI for 
-Multi-Sensor Spectral Index Computation. Faculty of Forestry and Environment, 
-Universitas Kuningan. Available at: https://code.earthengine.google.com/855c2692093e0ff2901447b2b9cb7814
-```
 
 ---
 
